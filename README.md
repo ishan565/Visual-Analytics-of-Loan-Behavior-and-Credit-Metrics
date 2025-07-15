@@ -4,11 +4,13 @@ by Ishan
 This Power BI dashboard was developed to explore and analyze key trends in a bank’s loan portfolio. It delivers an interactive overview of loan approvals, borrower demographics, repayment performance, and associated credit risk. Designed for clarity and functionality, the dashboard offers a dynamic experience for business users, interns, and analysts interested in lending behavior and financial health patterns.
 
 <p align="center">
-  <img src="a.png" width="48%"/>
+  <img src="a.png" width="69%"/>
 </p>
 Objective-
 The primary goal of this project is to visually demonstrate how variables such as borrower income, debt-to-income ratio (DTI), loan purpose, and verification status influence loan outcomes. The report enables users to identify approval patterns, repayment challenges, and risk indicators by examining data across borrower segments and timeframes. Through carefully selected visuals, the dashboard highlights both macro and micro-level lending insights.
-
+<p align="center">
+  <img src="b.png" width="69%"/>
+</p>
 Dataset-
 The dataset comprises approximately 1,000 records from a structured bank loan file in CSV format. Key fields include:
 Loan ID, loan amount, issue date, and loan status
@@ -17,7 +19,9 @@ Credit grade and sub-grade
 Home ownership, state, and verification status
 Purpose of the loan and total amount repaid
 These variables were selected to support both high-level summary metrics and deeper, segmented analysis of risk and performance.
-
+<p align="center">
+  <img src="c.png" width="69%"/>
+</p>
 Dashboard Features-
 
 KPI Cards summarizing total loan applications, disbursed amounts, payments received, average interest rates, and average DTI.
