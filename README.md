@@ -40,7 +40,7 @@ Interest rates increased as credit grade decreased, reflecting stricter pricing 
 Certain states showed significantly higher charge-off rates, pointing to potential regional lending concerns.
 
 Usage--
-This report was developed as part of a business analytics and data visualization portfolio to support internship and job applications in analyst roles. The original .pbix file can be opened using Power BI Desktop on Windows. For Mac users, the report is accessible via Power BI Service once published.
+This report was developed as part of a business analytics and data visualization portfolio. The original .pbix file can be opened using Power BI Desktop on Windows. For Mac users, the report is accessible via Power BI Service once published.
 
 Personal Note--
 This project reflects a practical understanding of business intelligence principles, from data preparation to visual storytelling. It demonstrates the ability to convert raw financial records into meaningful insights that support data-driven decision making. The dashboard emphasizes clean design, interactivity, and clarity, aligning with industry expectations for real-world BI deliverables.
